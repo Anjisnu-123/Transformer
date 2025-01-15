@@ -5,4 +5,7 @@
   - self attention (scaled dot product attention)
   - cross attention mechanism
   - multi head attention
-  
+  - Local attention
+  - Linform attention
+  - Longform attention
+  - performer attention
